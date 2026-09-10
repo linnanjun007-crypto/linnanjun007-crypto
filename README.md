@@ -4,7 +4,7 @@
 
 ## 关于
 
-人工智能专业在读，主要方向是大模型与强化学习，平时也折腾检索增强、数据工程相关的东西。
+人工智能专业在读，主要方向是Agent和强化学习，平时也折腾检索增强、数据工程相关的东西。
 
 ## 技术栈
 
@@ -18,10 +18,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## GitHub 统计
-
-<div align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=linnanjun007-crypto&theme=github" />
-</div>
 
 <div align="center">
   <img height="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linnanjun007-crypto&theme=github" />
