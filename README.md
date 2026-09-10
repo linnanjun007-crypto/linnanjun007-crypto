@@ -20,8 +20,11 @@
 ## GitHub 统计
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=linnanjun007-crypto&show_icons=true&theme=light&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linnanjun007-crypto&layout=compact&theme=light&hide_border=true" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=linnanjun007-crypto&theme=github" />
+</div>
+
+<div align="center">
+  <img height="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linnanjun007-crypto&theme=github" />
 </div>
 
 <div align="center">
