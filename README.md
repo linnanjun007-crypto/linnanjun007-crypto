@@ -21,7 +21,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle"><img height="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linnanjun007-crypto&theme=github" /></td>
+    <td align="center" valign="middle"><img height="500" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=linnanjun007-crypto&theme=github" /></td>
     <td align="center" valign="middle"><img height="300" src="https://streak-stats.demolab.com/?user=linnanjun007-crypto&theme=light&hide_border=true" /></td>
   </tr>
 </table>
